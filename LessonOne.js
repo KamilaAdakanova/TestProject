@@ -1,3 +1,4 @@
-const a = "Today is nice weather"
+const a = "TODAY is nice weather!"
 console.log(a)
+
 
